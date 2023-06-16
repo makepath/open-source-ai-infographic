@@ -185,17 +185,12 @@
     "creators": "Linux Foundation, Meta AI",
   },
   {
-    "name": "Microsoft Cognitive Toolkit",
-    "url": "https://docs.microsoft.com/en-us/cognitive-toolkit",
-    "category": "both",
-    "type": "GUI",
-    "image": null,
-    "description": "Microsoft Cognitive Toolkit is a toolkit for commercial-grade distributed deep learning. Users can combine popular model types, and implement algorithms across multiple servers and GPUs.",
+    "name": "Rasa",
+    "url": "https://github.com/RasaHQ",
+    "description": "Rasa provides machine learning tools for developers to build, improve, and deploy text-and voice-based chatbots and assistants.",
     "releaseYear": "2016",
-    "language": ["Python", "C++", "BrainScript"],
-    "creators": "Microsoft",
-    "developerQuote": "",
-    "fileFormats": ["Model development", "Model optimization", "Deep Learning", "Scaling"]
+    "language": ["Python", "Dockerfile", "Makefile", "Shell", "HCL", "HTML"],
+    "creators": "Alan Nichol, Alex Weidauer",
   },
   {
     "name": "PyTorch",
