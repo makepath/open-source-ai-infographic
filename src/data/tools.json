@@ -55,6 +55,14 @@
     "language": ["C++", "C", "Fortran", "CUDA", "CMake", "Shell", "Other"],
     "creators": "RAMFLOOD, Artelnics",
   },
+   {
+    "name": "Tesseract OCR",
+    "url": "https://github.com/tesseract-ocr/tesseract",
+    "description": "Tesseract OCR is an optical character recognition (OCR) engine.",
+    "releaseYear": "2005",
+    "language": ["C++", "C1.1", "Java", "Makefile", "CMake", "Shell"],
+    "creators": "Hewlett-Packard, University of Nevada - Las Vegas, Google",
+  },
   {
     "name": "scikit-learn",
     "url": "https://scikit-learn.org/stable",
