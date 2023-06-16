@@ -40,17 +40,12 @@
     "creators": "Davis E. King",
   },
   {
-    "name": "Polyaxon",
-    "url": "https://github.com/polyaxon/polyaxon",
-    "category": "both",
-    "type": "Framework",
-    "image": "https://demo.mapserver.org/images/mapserver-logo.jpg",
-    "description": "Polyaxon enables building, trainning, and monitoring of large scale deep learning apps.",
-    "releaseYear": "2004",
-    "language": ["Python"],
-    "creators": "Mourafiq, Mourad",
-    "developerQuote": "",
-    "fileFormats": ["Scaling, Model optimization", "Deep Learning"]
+    "name": "FANN",
+    "url": "https://github.com/libfann/fann",
+    "description": "Fast Artificial Neural Network (FANN) is a library that supports the implementation of multilayer artificial neural networks.",
+    "releaseYear": "November 2003",
+    "language": ["C++", "Python", "C", "CMake", "Other"],
+    "creators": "Steffen Nissen",
   },
   {
     "name": "scikit-learn",
