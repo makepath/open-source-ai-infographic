@@ -358,107 +358,49 @@
     "creators": "anyscale"
   },
   {
-    "name": "BigDL",
-    "url": "https://github.com/intel-analytics/BigDL",
-    "category": "vector",
-    "type": "File format",
-    "image": null,
-    "description": "BigDL is a distributed deep learning library for Apache Spark. Users can write deep learning apps as Spark programs.",
-    "releaseYear": "2017",
-    "language": [
-      "Scala",
-      "Python",
-      "Java"
-    ],
-    "creators": "Jason (Jinquan) Dai, Yiheng Wang, Xin Qiu, Ding Ding, Yao Zhang,  Yanzhang Wang, Xianyan Jia, Li (Cherry) Zhang, Yan Wan, Zhichao Li, Jiao Wang, Shengsheng Huang, Zhongyuan Wu, Yang Wang,  Yuhao Yang, Bowen She, Dongjie Shi, Qi Lu, Kai Huang, and Guoqiong Song.",
-    "developerQuote": "",
-    "fileFormats": [
-      "Model optimization",
-      "Scaling"
-    ]
-  },
-  {
-    "name": "Ray",
-    "url": "https://github.com/ray-project/ray",
-    "category": "both",
-    "type": "GUI",
-    "image": "https://gisgeography.com/wp-content/uploads/2016/01/SAGA-3D-Mapping-Anaglyph.png",
-    "description": "Ray provides a universal API for building distributed applications.",
-    "releaseYear": "2017",
-    "language": [
-      "Python",
-      "C++"
-    ],
-    "creators": "anyscale",
-    "developerQuote": "",
-    "fileFormats": [
-      "Model development",
-      "Model optimization",
-      "Reinforcement Learning",
-      "Scaling"
-    ]
-  },
-  {
-    "name": "TVM",
-    "url": "https://github.com/apache/tvm",
-    "category": "other",
-    "type": "Library",
-    "image": "http://networkx.github.io/_static/networkx_logo.svg",
-    "description": "TVM bridges productivity-focused deep learning with performance and efficiency-focused hardware backends.",
-    "releaseYear": "2017",
-    "language": [
-      "Python",
-      "C++"
-    ],
-    "creators": "OctoML",
-    "developerQuote": "",
-    "fileFormats": [
-      "Model development",
-      "Scaling",
-      "Deep Learning"
-    ]
-  },
-  {
-    "name": "DVC",
-    "url": "https://github.com/iterative/dvc",
-    "category": "vector",
-    "type": "Library",
-    "image": "https://i.ytimg.com/vi/MTfpQ2cG9CU/maxresdefault.jpg",
-    "description": "Data Version Control (DVC) is for data science and machine learning projects.",
-    "releaseYear": "2017",
+    "name": "Transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "description": "Transformers provides tools and resource for training pretrained models.",
+    "releaseYear": "Nov 17, 2018",
     "language": [
       "Python"
     ],
-    "creators": "Iterative",
-    "developerQuote": "",
-    "fileFormats": [
-      "Model optimization",
-      "Data preparation"
-    ]
+    "creators": "Jason (Jinquan) Dai, Yiheng Wang, Xin Qiu, Ding Ding, Yao Zhang,  Yanzhang Wang, Xianyan Jia, Li (Cherry) Zhang, Yan Wan, Zhichao Li, Jiao Wang, Shengsheng Huang, Zhongyuan Wu, Yang Wang,  Yuhao Yang, Bowen She, Dongjie Shi, Qi Lu, Kai Huang, and Guoqiong Song.",
   },
   {
-    "name": "mlflow",
-    "url": "https://mlflow.org",
-    "category": "both",
-    "type": "Library",
-    "image": "https://numpy.org/images/logos/numpy.svg",
-    "description": "MLflow streamlines machine learning dev by tracking experiments, packaging code, and sharing/deploying models.",
-    "releaseYear": "2018",
+    "name": "JAX",
+    "url": "https://github.com/google/jax",
+    "description": "JAX is a machine learning framework that combines Autograd and XLA to support transforming numerical functions. ",
+    "releaseYear": "December 2018",
     "language": [
       "Python",
-      "R",
-      "Java",
-      "Scala"
     ],
-    "creators": "Databricks",
-    "developerQuote": "",
-    "fileFormats": [
-      "Model optimization",
-      "Model development",
-      "Scaling",
-      "Deep Learning",
-      "Classical Machine Learning"
-    ]
+    "creators": "Google",
+  },
+  {
+    "name": "PyCaret",
+    "url": "https://github.com/pycaret/pycaret",
+    "description": "PyCaret is a machine learning library that supports automating machine learning workflows. ",
+    "releaseYear": "April 2020",
+    "language": [
+      "Python"
+    ],
+    "creators": "Moez Ali",
+  },
+  {
+    "name": "DeepSpeed",
+    "url": "https://github.com/microsoft/DeepSpeed",
+    "description": "DeepSpeed is a deep learning optimization library that supports deep learning training and inference.",
+    "releaseYear": "May 19, 2020",
+    "language": [
+      "Python",
+      "C++",
+      "CUDA",
+      "Shell",
+      "Dockerfile",
+      "C"
+    ],
+    "creators": "Microsoft Research",
   },
   {
     "name": "Transformers",
