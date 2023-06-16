@@ -44,12 +44,12 @@ self.__precacheManifest = [
     "url": "/open-source-machine-learning-infographic/static/media/Montserrat-Bold.d3085f68.ttf"
   },
   {
-    "revision": "bdb37477b68d098317daaf939f295527",
-    "url": "/open-source-machine-learning-infographic/static/media/Acumin-RPro.bdb37477.otf"
-  },
-  {
     "revision": "f55e6e6014f6e1692edbb46a156d65b6",
     "url": "/open-source-machine-learning-infographic/static/media/Acumin-BdPro.f55e6e60.otf"
+  },
+  {
+    "revision": "bdb37477b68d098317daaf939f295527",
+    "url": "/open-source-machine-learning-infographic/static/media/Acumin-RPro.bdb37477.otf"
   },
   {
     "revision": "2a3a23bf878d7187dc1e20049a44e9ba",
