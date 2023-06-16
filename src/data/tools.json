@@ -4,209 +4,358 @@
     "url": "https://www.cs.waikato.ac.nz/ml/weka/",
     "description": "Weka includes tools for data preparation, classification, regression, clustering, and other machine learning algorithms used for data mining.",
     "releaseYear": "1993",
-    "language": ["Java"],
-    "creators": "University of Waikato, NZ",
+    "language": [
+      "Java"
+    ],
+    "creators": "University of Waikato, NZ"
   },
   {
     "name": "Shogun",
     "url": "https://github.com/shogun-toolbox/shogun",
     "description": "Shogun is a machine learning toolbox that supports the implementation of  standard machine learning algorithms.",
     "releaseYear": "1999",
-    "language": ["Python"],
-    "creators": "Gunnar Rätsch, Soeren Sonnenburg",
+    "language": [
+      "Python"
+    ],
+    "creators": "Gunnar Rätsch, Soeren Sonnenburg"
   },
   {
     "name": "OpenCV",
     "url": "github.com/opencv/opencv",
     "description": "OpenCV is a computer vision and machine learning library that provides common infrastructure to accelerate machine perception.",
     "releaseYear": "June 2000",
-    "language": ["C++", "C", "Python", "CMake", "Java", "Objective-C++", "Other"],
-    "creators": "Intel, Willow Garage, Itseez",
+    "language": [
+      "C++",
+      "C",
+      "Python",
+      "CMake",
+      "Java",
+      "Objective-C++",
+      "Other"
+    ],
+    "creators": "Intel, Willow Garage, Itseez"
   },
   {
     "name": "Torch",
     "url": "github.com/torch/torch7",
     "description": "Torch is a scientific computing framework that supports machine learning algorithms on GPUs.",
     "releaseYear": "October 2002",
-    "language": ["C", "C++", "Lua", "CMake"],
-    "creators": "Ronan Collobert, Samy Bengio, Johnny Mariéthoz",
+    "language": [
+      "C",
+      "C++",
+      "Lua",
+      "CMake"
+    ],
+    "creators": "Ronan Collobert, Samy Bengio, Johnny Mariéthoz"
   },
   {
     "name": "Dlib",
     "url": "https://github.com/davisking/dlib",
     "description": "Dlib is a toolkit that contains machine learning algorithms and resources for creating complex applications.",
     "releaseYear": "2002",
-    "language": ["C++", "Python", "CMake", "CUDA", "C", "XSLT"],
-    "creators": "Davis E. King",
+    "language": [
+      "C++",
+      "Python",
+      "CMake",
+      "CUDA",
+      "C",
+      "XSLT"
+    ],
+    "creators": "Davis E. King"
   },
   {
     "name": "FANN",
     "url": "https://github.com/libfann/fann",
     "description": "Fast Artificial Neural Network (FANN) is a library that supports the implementation of multilayer artificial neural networks.",
     "releaseYear": "November 2003",
-    "language": ["C++", "Python", "C", "CMake", "Other"],
-    "creators": "Steffen Nissen",
+    "language": [
+      "C++",
+      "Python",
+      "C",
+      "CMake",
+      "Other"
+    ],
+    "creators": "Steffen Nissen"
   },
-   {
+  {
     "name": "OpenNN",
     "url": "https://github.com/Artelnics/OpenNN",
     "description": "OpenNN is a library that implements neural networks and is optimized for high-performance predictive analytics.",
     "releaseYear": "2003",
-    "language": ["C++", "C", "Fortran", "CUDA", "CMake", "Shell", "Other"],
-    "creators": "RAMFLOOD, Artelnics",
+    "language": [
+      "C++",
+      "C",
+      "Fortran",
+      "CUDA",
+      "CMake",
+      "Shell",
+      "Other"
+    ],
+    "creators": "RAMFLOOD, Artelnics"
   },
-   {
+  {
     "name": "Tesseract OCR",
     "url": "https://github.com/tesseract-ocr/tesseract",
     "description": "Tesseract OCR is an optical character recognition (OCR) engine.",
     "releaseYear": "2005",
-    "language": ["C++", "C1.1", "Java", "Makefile", "CMake", "Shell"],
-    "creators": "Hewlett-Packard, University of Nevada - Las Vegas, Google",
+    "language": [
+      "C++",
+      "C1.1",
+      "Java",
+      "Makefile",
+      "CMake",
+      "Shell"
+    ],
+    "creators": "Hewlett-Packard, University of Nevada - Las Vegas, Google"
   },
   {
     "name": "scikit-learn",
     "url": "github.com/scikit-learn/scikit-learn",
     "description": "scikit-learn is a Python module for machine learning built on top of SciPy.",
     "releaseYear": "June 2007",
-    "language": ["Python", "C", "C++", "Cython"],
-    "creators": "David Cournapeau",
+    "language": [
+      "Python",
+      "C",
+      "C++",
+      "Cython"
+    ],
+    "creators": "David Cournapeau"
   },
   {
     "name": "Theano",
     "url": "github.com/Theano",
     "description": "Theano lets you define, optimize, and evaluate mathematical expressions with multi-dimensional arrays.",
     "releaseYear": "2007",
-    "language": ["Python"],
-    "creators": "University of Montreal, Mila",
+    "language": [
+      "Python"
+    ],
+    "creators": "University of Montreal, Mila"
   },
   {
     "name": "mlpack",
     "url": "https://github.com/mlpack/mlpack",
     "description": "mlpack aims to provide fast, extensible implementations of cutting-edge machine learning algorithms.",
     "releaseYear": "February 1, 2008",
-    "language": ["C++", "CMake", "Python", "Go", "Julia", "Shell", "Other"],
-    "creators": "Ryan Curtin",
+    "language": [
+      "C++",
+      "CMake",
+      "Python",
+      "Go",
+      "Julia",
+      "Shell",
+      "Other"
+    ],
+    "creators": "Ryan Curtin"
   },
   {
     "name": "Apache Mahout",
     "url": "https://github.com/apache/mahout",
     "description": "Apache Mahout produces free implementations of distributed and scalable machine learning algorithms.",
     "releaseYear": "2009",
-    "language": ["Java", "Scala"],
-    "creators": "Apache Software Foundation",
+    "language": [
+      "Java",
+      "Scala"
+    ],
+    "creators": "Apache Software Foundation"
   },
   {
     "name": "H20.ai",
     "url": "https://github.com/h2oai",
     "description": "H2O.ai offers a suite of open source AI projects for machine learning, large language models (LLM) fine-tuning and web app development.",
     "releaseYear": "2012",
-    "language": ["Java", "Scala"],
-    "creators": "Sei Ambati",
+    "language": [
+      "Java",
+      "Scala"
+    ],
+    "creators": "Sei Ambati"
   },
   {
     "name": "Caffe (Convolutional Architecture for Fast Feature Embedding)",
     "url": "https://github.com/BVLC/caffe",
     "description": "Caffe provides a deep learning framework designed with expression, speed, and modularity.",
     "releaseYear": "April 2014",
-    "language": ["C++", "Python", "CUDA", "CMake", "MATLAB", "Makefile", "Other"],
-    "creators": "Yangqing Jia",
+    "language": [
+      "C++",
+      "Python",
+      "CUDA",
+      "CMake",
+      "MATLAB",
+      "Makefile",
+      "Other"
+    ],
+    "creators": "Yangqing Jia"
   },
   {
     "name": "Keras",
     "url": "github.com/keras-team/keras",
     "description": "Keras offers consistent and simple APIs to reduce cognitive.",
     "releaseYear": "March 27, 2015",
-    "language": ["Python", "Starlark", "Other"],
-    "creators": "François Chollet",
+    "language": [
+      "Python",
+      "Starlark",
+      "Other"
+    ],
+    "creators": "François Chollet"
   },
   {
     "name": "Chainer",
     "url": "https://github.com/chainer/chainer",
-    "description": "Chainer is a deep learning framework that supported the building and training of neural networks.",
+    "description": "Chainer is a deep learning framework that supported the building and training of neural networks.",
     "releaseYear": "June 2015",
-    "language": ["Python"],
-    "creators": "Seiya Tokui",
+    "language": [
+      "Python"
+    ],
+    "creators": "Seiya Tokui"
   },
   {
     "name": "TensorFlow",
     "url": "https://github.com/tensorflow/tensorflow",
     "description": "TensorFlow is an end-to-end platform that provides a flexible ecosystem of tools for machine learning.",
     "releaseYear": "November 9, 2015",
-    "language": ["C++", "Python", "MLIR", "Starlark", "HTML", "Go", "Other"],
-    "creators": "Google, Google Brain",
+    "language": [
+      "C++",
+      "Python",
+      "MLIR",
+      "Starlark",
+      "HTML",
+      "Go",
+      "Other"
+    ],
+    "creators": "Google, Google Brain"
   },
   {
     "name": "fastText",
     "url": "https://github.com/facebookresearch/fastText",
-    "description": "fastText is a library that supports learning word representations and sentence classification.",
+    "description": "fastText is a library that supports learning word representations and sentence classification.",
     "releaseYear": "November 9, 2015",
-    "language": ["HTML", "C++", "JavaScript", "Python", "CSS", "Shell", "Other"],
-    "creators": "Facebook AI Research (FAIR)",
+    "language": [
+      "HTML",
+      "C++",
+      "JavaScript",
+      "Python",
+      "CSS",
+      "Shell",
+      "Other"
+    ],
+    "creators": "Facebook AI Research (FAIR)"
   },
   {
     "name": "OpenAI",
     "url": "https://github.com/openai",
     "description": "OpenAI develops and provides access to a series of libraries and resources for AI-based applications.",
     "releaseYear": "December 10, 2015",
-    "language": ["Python", "Starlark", "Other"],
-    "creators": "Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, John Schulman,  Wojciech Zaremba",
+    "language": [
+      "Python",
+      "Starlark",
+      "Other"
+    ],
+    "creators": "Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, John Schulman,  Wojciech Zaremba"
   },
   {
     "name": "Apache MXNet",
     "url": "https://github.com/apache/incubator-mxnet",
-    "description": "Apache MXNet is a deep learning framework for combining symbolic and imperative programming.",
+    "description": "Apache MXNet is a deep learning framework for combining symbolic and imperative programming.",
     "releaseYear": "2015",
-    "language": ["C++", "Python", "Jupyter Notebook", "CUDA", "CMake", "Shell", "Other"],
-    "creators": "Distributed (Deep) Machine Learning Community",
-    ]
+    "language": [
+      "C++",
+      "Python",
+      "Jupyter Notebook",
+      "CUDA",
+      "CMake",
+      "Shell",
+      "Other"
+    ],
+    "creators": "Distributed (Deep) Machine Learning Community"
   },
   {
     "name": "Microsoft Cognitive Toolkit ",
     "url": "https://github.com/microsoft/CNTK",
     "description": "The Microsoft Cognitive Toolkit described neural networks series of computational steps through a directed graph and allowed users to combine common model types.",
     "releaseYear": "January 25, 2016",
-    "language": ["C++", "Jupyter Notebook", "Python", "CUDA", "C#", "Shell", "Other"],
-    "creators": "Microsoft Research",
+    "language": [
+      "C++",
+      "Jupyter Notebook",
+      "Python",
+      "CUDA",
+      "C#",
+      "Shell",
+      "Other"
+    ],
+    "creators": "Microsoft Research"
   },
   {
     "name": "Mycroft",
     "url": "https://github.com/MycroftAI/mycroft-core",
     "description": "Mycroft is an open source voice assistant.",
     "releaseYear": "May 23, 2016",
-    "language": ["Python", "Shell", "QML", "Dockerfile"],
-    "creators": "Mycroft AI team",
+    "language": [
+      "Python",
+      "Shell",
+      "QML",
+      "Dockerfile"
+    ],
+    "creators": "Mycroft AI team"
   },
   {
     "name": "PyTorch",
     "url": "github.com/pytorch/pytorch",
     "description": "PyTorch is a machine learning framework for applications including computer vision and natural language processing.",
     "releaseYear": "September 2016",
-    "language": ["Python", "C++", "CUDA", "C", "Objective-C++", "CMake", "Other"],
-    "creators": "Linux Foundation, Meta AI",
+    "language": [
+      "Python",
+      "C++",
+      "CUDA",
+      "C",
+      "Objective-C++",
+      "CMake",
+      "Other"
+    ],
+    "creators": "Linux Foundation, Meta AI"
   },
   {
     "name": "Rasa",
     "url": "https://github.com/RasaHQ",
     "description": "Rasa provides machine learning tools for developers to build, improve, and deploy text-and voice-based chatbots and assistants.",
     "releaseYear": "2016",
-    "language": ["Python", "Dockerfile", "Makefile", "Shell", "HCL", "HTML"],
-    "creators": "Alan Nichol, Alex Weidauer",
+    "language": [
+      "Python",
+      "Dockerfile",
+      "Makefile",
+      "Shell",
+      "HCL",
+      "HTML"
+    ],
+    "creators": "Alan Nichol, Alex Weidauer"
   },
   {
     "name": "Hugging Face",
     "url": "https://github.com/huggingface",
     "description": "Hugging Face provides open source tools that allow users to integrate AI into their products and workflows.",
     "releaseYear": "2016",
-    "language": ["Python", "Jupyter Notebook", "TypeScript", "Rust", "C++"],
-    "creators": "Clément Delangue, Julien Chaumond, Thomas Wolf",
+    "language": [
+      "Python",
+      "Jupyter Notebook",
+      "TypeScript",
+      "Rust",
+      "C++"
+    ],
+    "creators": "Clément Delangue, Julien Chaumond, Thomas Wolf"
   },
   {
     "name": "Ray",
     "url": "https://github.com/ray-project/ray",
     "description": "Ray provides a universal API for building distributed applications.",
     "releaseYear": "2017",
-    "language": ["Python", "C++", "Java", "TypeScript", "Starlark", "Cython", "Other"],
-    "creators": "anyscale",
+    "language": [
+      "Python",
+      "C++",
+      "Java",
+      "TypeScript",
+      "Starlark",
+      "Cython",
+      "Other"
+    ],
+    "creators": "anyscale"
   },
   {
     "name": "BigDL",
@@ -216,10 +365,17 @@
     "image": null,
     "description": "BigDL is a distributed deep learning library for Apache Spark. Users can write deep learning apps as Spark programs.",
     "releaseYear": "2017",
-    "language": ["Scala", "Python", "Java"],
+    "language": [
+      "Scala",
+      "Python",
+      "Java"
+    ],
     "creators": "Jason (Jinquan) Dai, Yiheng Wang, Xin Qiu, Ding Ding, Yao Zhang,  Yanzhang Wang, Xianyan Jia, Li (Cherry) Zhang, Yan Wan, Zhichao Li, Jiao Wang, Shengsheng Huang, Zhongyuan Wu, Yang Wang,  Yuhao Yang, Bowen She, Dongjie Shi, Qi Lu, Kai Huang, and Guoqiong Song.",
     "developerQuote": "",
-    "fileFormats": ["Model optimization", "Scaling"]
+    "fileFormats": [
+      "Model optimization",
+      "Scaling"
+    ]
   },
   {
     "name": "Ray",
@@ -229,10 +385,18 @@
     "image": "https://gisgeography.com/wp-content/uploads/2016/01/SAGA-3D-Mapping-Anaglyph.png",
     "description": "Ray provides a universal API for building distributed applications.",
     "releaseYear": "2017",
-    "language": ["Python", "C++"],
+    "language": [
+      "Python",
+      "C++"
+    ],
     "creators": "anyscale",
     "developerQuote": "",
-    "fileFormats": ["Model development", "Model optimization", "Reinforcement Learning", "Scaling"]
+    "fileFormats": [
+      "Model development",
+      "Model optimization",
+      "Reinforcement Learning",
+      "Scaling"
+    ]
   },
   {
     "name": "TVM",
@@ -242,10 +406,17 @@
     "image": "http://networkx.github.io/_static/networkx_logo.svg",
     "description": "TVM bridges productivity-focused deep learning with performance and efficiency-focused hardware backends.",
     "releaseYear": "2017",
-    "language": ["Python", "C++"],
+    "language": [
+      "Python",
+      "C++"
+    ],
     "creators": "OctoML",
     "developerQuote": "",
-    "fileFormats": ["Model development", "Scaling", "Deep Learning"]
+    "fileFormats": [
+      "Model development",
+      "Scaling",
+      "Deep Learning"
+    ]
   },
   {
     "name": "DVC",
@@ -255,10 +426,15 @@
     "image": "https://i.ytimg.com/vi/MTfpQ2cG9CU/maxresdefault.jpg",
     "description": "Data Version Control (DVC) is for data science and machine learning projects.",
     "releaseYear": "2017",
-    "language": ["Python"],
+    "language": [
+      "Python"
+    ],
     "creators": "Iterative",
     "developerQuote": "",
-    "fileFormats": ["Model optimization", "Data preparation"]
+    "fileFormats": [
+      "Model optimization",
+      "Data preparation"
+    ]
   },
   {
     "name": "mlflow",
@@ -268,7 +444,12 @@
     "image": "https://numpy.org/images/logos/numpy.svg",
     "description": "MLflow streamlines machine learning dev by tracking experiments, packaging code, and sharing/deploying models.",
     "releaseYear": "2018",
-    "language": ["Python", "R", "Java", "Scala"],
+    "language": [
+      "Python",
+      "R",
+      "Java",
+      "Scala"
+    ],
     "creators": "Databricks",
     "developerQuote": "",
     "fileFormats": [
@@ -287,10 +468,15 @@
     "image": "https://img-a.udemycdn.com/course/750x422/305714_e8f2_3.jpg",
     "description": "Transformers provides machine learning for Pytorch, TensorFlow, and JAX. There are thousands of pretrained models for tasks like text, vision, and audio tasks.",
     "releaseYear": "2018",
-    "language": ["Python"],
+    "language": [
+      "Python"
+    ],
     "creators": "Hugging Face",
     "developerQuote": "",
-    "fileFormats": ["Model optimization", "Deep Learning"]
+    "fileFormats": [
+      "Model optimization",
+      "Deep Learning"
+    ]
   },
   {
     "name": "Compose",
@@ -300,10 +486,14 @@
     "image": "https://miro.medium.com/max/12224/1*lJdtMMP8Q0xuIiO3v_xVwQ.png",
     "description": "Compose is for automated prediction engineering. With Compose you can structure predictions and generate labels for supervised learning.",
     "releaseYear": "2019",
-    "language": ["Python"],
+    "language": [
+      "Python"
+    ],
     "creators": "Alteryx",
     "developerQuote": "",
-    "fileFormats": ["Data preparation"]
+    "fileFormats": [
+      "Data preparation"
+    ]
   },
   {
     "name": "Gradio",
@@ -313,10 +503,15 @@
     "image": "https://secureservercdn.net/198.71.233.197/hb9.c63.myftpupload.com/wp-content/uploads/2020/04/RTree.png",
     "description": "Gradio is for creating web-based UIs that enabled users to interact with models in real time. Makes model demos easy.",
     "releaseYear": "2019",
-    "language": ["Python"],
+    "language": [
+      "Python"
+    ],
     "creators": "Gradio",
     "developerQuote": "",
-    "fileFormats": ["UI", "API"]
+    "fileFormats": [
+      "UI",
+      "API"
+    ]
   },
   {
     "name": "PyTorch Lightning",
@@ -326,7 +521,9 @@
     "image": "https://lh3.googleusercontent.com/proxy/bm_8zsnKwpkH6eC0Mfcb2Pu9kjmjbL-ZZ3BSq4fUllTh24_5-9Oxf0r5Ezrtd7hG1NRLO0xiIDD8hasBMhn8qrO19DOAyN7xmf4Z",
     "description": "PyTorch Lightning is a research framework for scaling models.",
     "releaseYear": "2019",
-    "language": ["Python"],
+    "language": [
+      "Python"
+    ],
     "creators": "William Falcon",
     "developerQuote": "",
     "fileFormats": [
@@ -344,10 +541,14 @@
     "image": null,
     "description": "feast is a feature store for machine learning applications, and a path to analytic data production for model training.",
     "releaseYear": "2019",
-    "language": ["Java"],
+    "language": [
+      "Java"
+    ],
     "creators": "Tecton",
     "developerQuote": "",
-    "fileFormats": ["Feature engineering"]
+    "fileFormats": [
+      "Feature engineering"
+    ]
   },
   {
     "name": "CML",
@@ -357,10 +558,15 @@
     "image": null,
     "description": "Continuous Machine Learning (CML) is a tool for implementing continuous integration and delivery. It can automate development workflows like: machine provisioning, model training, and comparing ML experiements. ",
     "releaseYear": "2020",
-    "language": ["Python"],
+    "language": [
+      "Python"
+    ],
     "creators": "Iterative",
     "developerQuote": "",
-    "fileFormats": ["Model optimization", "Data preparation"]
+    "fileFormats": [
+      "Model optimization",
+      "Data preparation"
+    ]
   },
   {
     "name": "aesara",
@@ -370,10 +576,14 @@
     "image": "https://lh3.googleusercontent.com/a4tBqdzeHk_lIsycjyr4KrHQH7W46xwPuboq5vxdNNbcvi6wOTDtD6ikspdoOmXOTpyZ=s360-rw",
     "description": "aesara lets users define, optimize, and evaluate mathematical expressions with multi-dimensional arrays.",
     "releaseYear": "2020",
-    "language": ["Python"],
+    "language": [
+      "Python"
+    ],
     "creators": "Aesara Contributors",
     "developerQuote": "",
-    "fileFormats": ["Math"]
+    "fileFormats": [
+      "Math"
+    ]
   },
   {
     "name": "fastai",
@@ -383,10 +593,16 @@
     "image": "https://trac.osgeo.org/geos/chrome/site/geos.gif",
     "description": "fastai is a library for deep learning results, and lets researchers mix in low level components to build new approaches.",
     "releaseYear": "2020",
-    "language": ["Python"],
+    "language": [
+      "Python"
+    ],
     "creators": "Jeremy Howard and Dr Rachel Thomas",
     "developerQuote": "",
-    "fileFormats": ["Model development", "Model optimization", "Deep Learning"]
+    "fileFormats": [
+      "Model development",
+      "Model optimization",
+      "Deep Learning"
+    ]
   },
   {
     "name": "auto-sklearn",
@@ -396,9 +612,14 @@
     "image": null,
     "description": "auto-sklearn takes over algorithm selection and hyperparmater tuning form the user, leveraging Bayesian optimization, meta-learning, and ensemble construction. ",
     "releaseYear": "2021",
-    "language": ["Python"],
+    "language": [
+      "Python"
+    ],
     "creators": "Matthias Feurer, Katharina Eggensperger, Stefan Falkner, Marius Lindauer, and Frank Hutter.",
     "developerQuote": "",
-    "fileFormats": ["Model optimization", "Classical Machine Learning"]
+    "fileFormats": [
+      "Model optimization",
+      "Classical Machine Learning"
+    ]
   }
 ]
