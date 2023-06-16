@@ -67,7 +67,7 @@ export default class ToolPopup extends Component {
             </a>
             <p>{description}</p>
             <span>
-              <h4>Date Started</h4>
+              <h4>Initial Release</h4>
               <h5>{releaseYear}</h5>
             </span>
             <span>
@@ -75,12 +75,12 @@ export default class ToolPopup extends Component {
               <h5>
                 {language
                   ? language.map((lang, i, arr) => {
-                      if (arr.length - 1 === i) {
-                        return lang + '.';
-                      } else {
-                        return lang + ', ';
-                      }
-                    })
+                    if (arr.length - 1 === i) {
+                      return lang + '.';
+                    } else {
+                      return lang + ', ';
+                    }
+                  })
                   : null}
               </h5>
             </span>
@@ -94,12 +94,12 @@ export default class ToolPopup extends Component {
                 <h5>
                   {fileFormats
                     ? fileFormats.map((format, i, arr) => {
-                        if (arr.length - 1 === i) {
-                          return format + '.';
-                        } else {
-                          return format + ', ';
-                        }
-                      })
+                      if (arr.length - 1 === i) {
+                        return format + '.';
+                      } else {
+                        return format + ', ';
+                      }
+                    })
                     : null}
                 </h5>
               </span>
