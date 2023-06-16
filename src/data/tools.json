@@ -170,7 +170,7 @@
     "creators": "Sei Ambati"
   },
   {
-    "name": "Caffe (Convolutional Architecture for Fast Feature Embedding)",
+    "name": "Caffe",
     "url": "https://github.com/BVLC/caffe",
     "description": "Caffe provides a deep learning framework designed with expression, speed, and modularity.",
     "releaseYear": "April 2014",
