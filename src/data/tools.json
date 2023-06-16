@@ -378,27 +378,6 @@
     ]
   },
   {
-    "name": "Ray",
-    "url": "https://github.com/ray-project/ray",
-    "category": "both",
-    "type": "GUI",
-    "image": "https://gisgeography.com/wp-content/uploads/2016/01/SAGA-3D-Mapping-Anaglyph.png",
-    "description": "Ray provides a universal API for building distributed applications.",
-    "releaseYear": "2017",
-    "language": [
-      "Python",
-      "C++"
-    ],
-    "creators": "anyscale",
-    "developerQuote": "",
-    "fileFormats": [
-      "Model development",
-      "Model optimization",
-      "Reinforcement Learning",
-      "Scaling"
-    ]
-  },
-  {
     "name": "TVM",
     "url": "https://github.com/apache/tvm",
     "category": "other",
