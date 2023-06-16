@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/open-source-ai-infographic/precache-manifest.df16223ba0b11e2830b9c587f20195ee.js"
+  "/open-source-ai-infographic/precache-manifest.0f681b2f847d33a7f883bae89ca703a2.js"
 );
 
 workbox.clientsClaim();
