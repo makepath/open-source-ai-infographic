@@ -63,7 +63,7 @@ export class InfoGraphic extends Component {
         <main>
           <a
             id="github-fork-me"
-            href="https://github.com/makepath/open-source-machine-learning-infographic/"
+            href="https://github.com/makepath/open-source-ai-infographic/"
             target="#blank"
           >
             <img
@@ -76,7 +76,7 @@ export class InfoGraphic extends Component {
           </a>
           <h1>
             A History of
-            <br /> Open Source Machine Learning Tools
+            <br /> Open Source AI Tools
           </h1>
           <h3>Click on the name of the tool to learn more about it.</h3>
           <Filters />

@@ -12,7 +12,7 @@
   {
     "name": "Shogun",
     "url": "https://github.com/shogun-toolbox/shogun",
-    "description": "Shogun is a machine learning toolbox that supports the implementation of  standard machine learning algorithms.",
+    "description": "Shogun is a machine learning toolbox that supports the implementation of standard machine learning algorithms.",
     "releaseYear": "1999",
     "language": [
       "Python"
