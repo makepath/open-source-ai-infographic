@@ -1,5 +1,5 @@
 [
-  {  
+  {
     "name": "Weka",
     "url": "https://www.cs.waikato.ac.nz/ml/weka/",
     "description": "Weka includes tools for data preparation, classification, regression, clustering, and other machine learning algorithms used for data mining.",
@@ -43,7 +43,7 @@
     "language": [
       "C",
       "C++",
-      "Lua",
+      "Lua"
     ],
     "creators": "Ronan Collobert, Samy Bengio, Johnny Mariéthoz"
   },
@@ -56,7 +56,7 @@
       "C++",
       "Python",
       "CUDA",
-      "C",
+      "C"
     ],
     "creators": "Davis E. King"
   },
@@ -68,7 +68,7 @@
     "language": [
       "C++",
       "Python",
-      "C",
+      "C"
     ],
     "creators": "Steffen Nissen"
   },
@@ -80,7 +80,7 @@
     "language": [
       "C++",
       "C",
-      "CUDA",
+      "CUDA"
     ],
     "creators": "RAMFLOOD, Artelnics"
   },
@@ -91,7 +91,7 @@
     "releaseYear": "2005",
     "language": [
       "C++",
-      "Java",
+      "Java"
     ],
     "creators": "Hewlett-Packard, University of Nevada - Las Vegas, Google"
   },
@@ -103,7 +103,7 @@
     "language": [
       "Python",
       "C",
-      "C++",
+      "C++"
     ],
     "creators": "David Cournapeau"
   },
@@ -125,7 +125,7 @@
     "language": [
       "C++",
       "Python",
-      "Go",
+      "Go"
     ],
     "creators": "Ryan Curtin"
   },
@@ -160,7 +160,7 @@
       "C++",
       "Python",
       "CUDA",
-      "MATLAB",
+      "MATLAB"
     ],
     "creators": "Yangqing Jia"
   },
@@ -170,7 +170,7 @@
     "description": "Keras offers consistent and simple APIs to reduce cognitive.",
     "releaseYear": "March 27, 2015",
     "language": [
-      "Python",
+      "Python"
     ],
     "creators": "François Chollet"
   },
@@ -192,7 +192,7 @@
     "language": [
       "C++",
       "Python",
-      "Go",
+      "Go"
     ],
     "creators": "Google, Google Brain"
   },
@@ -204,7 +204,7 @@
     "language": [
       "C++",
       "JavaScript",
-      "Python",
+      "Python"
     ],
     "creators": "Facebook AI Research (FAIR)"
   },
@@ -214,7 +214,7 @@
     "description": "OpenAI develops and provides access to a series of libraries and resources for AI-based applications.",
     "releaseYear": "December 10, 2015",
     "language": [
-      "Python",
+      "Python"
     ],
     "creators": "Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, John Schulman,  Wojciech Zaremba"
   },
@@ -226,7 +226,7 @@
     "language": [
       "C++",
       "Python",
-      "CUDA",
+      "CUDA"
     ],
     "creators": "Distributed (Deep) Machine Learning Community"
   },
@@ -239,7 +239,7 @@
       "C++",
       "Python",
       "CUDA",
-      "C#",
+      "C#"
     ],
     "creators": "Microsoft Research"
   },
@@ -262,7 +262,7 @@
       "Python",
       "C++",
       "CUDA",
-      "C",
+      "C"
     ],
     "creators": "Linux Foundation, Meta AI"
   },
@@ -276,7 +276,7 @@
     ],
     "creators": "Alan Nichol, Alex Weidauer"
   },
-   {
+  {
     "name": "Hugging Face",
     "url": "https://github.com/huggingface",
     "description": "Hugging Face provides open source tools that allow users to integrate AI into their products and workflows.",
@@ -296,7 +296,7 @@
     "language": [
       "Python",
       "C++",
-      "Java",
+      "Java"
     ],
     "creators": "anyscale"
   },
@@ -308,17 +308,17 @@
     "language": [
       "Python"
     ],
-    "creators": "Jason (Jinquan) Dai, Yiheng Wang, Xin Qiu, Ding Ding, Yao Zhang,  Yanzhang Wang, Xianyan Jia, Li (Cherry) Zhang, Yan Wan, Zhichao Li, Jiao Wang, Shengsheng Huang, Zhongyuan Wu, Yang Wang,  Yuhao Yang, Bowen She, Dongjie Shi, Qi Lu, Kai Huang, and Guoqiong Song.",
+    "creators": "Jason (Jinquan) Dai, Yiheng Wang, Xin Qiu, Ding Ding, Yao Zhang,  Yanzhang Wang, Xianyan Jia, Li (Cherry) Zhang, Yan Wan, Zhichao Li, Jiao Wang, Shengsheng Huang, Zhongyuan Wu, Yang Wang,  Yuhao Yang, Bowen She, Dongjie Shi, Qi Lu, Kai Huang, and Guoqiong Song."
   },
   {
     "name": "JAX",
     "url": "https://github.com/google/jax",
-    "description": "JAX is a machine learning framework that combines Autograd and XLA to support transforming numerical functions. ",
+    "description": "JAX is a machine learning framework that combines Autograd and XLA to support transforming numerical functions.",
     "releaseYear": "December 2018",
     "language": [
       "Python"
     ],
-    "creators": "Google",
+    "creators": "Google"
   },
   {
     "name": "PyCaret",
@@ -328,12 +328,12 @@
     "language": [
       "Python"
     ],
-    "creators": "Moez Ali",
+    "creators": "Moez Ali"
   },
   {
     "name": "DeepSpeed",
     "url": "https://github.com/microsoft/DeepSpeed",
-    "description": "DeepSpeed is a deep learning optimization library that supports deep learning training and inference.",
+    "description": "DeepSpeed is a deep learning optimization library that supports deep learning training and inference.",
     "releaseYear": "May 19, 2020",
     "language": [
       "Python",
@@ -341,7 +341,7 @@
       "CUDA",
       "C"
     ],
-    "creators": "Microsoft Research",
+    "creators": "Microsoft Research"
   },
   {
     "name": "Stable Diffusion",
@@ -351,7 +351,7 @@
     "language": [
       "Python"
     ],
-    "creators": "Runway, CompVis, and Stability AI",
+    "creators": "Runway, CompVis, and Stability AI"
   },
   {
     "name": "Open Assistant",
@@ -359,9 +359,9 @@
     "description": "OpenAssistant is a chat-based assistant and also supports the creation of chat-enabled generative pre-trained transformers.",
     "releaseYear": "December 17, 2022",
     "language": [
-      "Python",
+      "Python"
     ],
-    "creators": "Andreas Köpf, Yannic Kilcher, Huu Nguyen, Christoph Schuhmann",
+    "creators": "Andreas Köpf, Yannic Kilcher, Huu Nguyen, Christoph Schuhmann"
   },
   {
     "name": "LLaMA",
@@ -369,9 +369,9 @@
     "description": "Large Language Model Meta AI (LLaMA) foundational large language model geared towards users in the research community.",
     "releaseYear": "February 24, 2023",
     "language": [
-      "Python",
+      "Python"
     ],
-    "creators": "Meta AI",
+    "creators": "Meta AI"
   },
   {
     "name": "Dolly",
@@ -382,6 +382,6 @@
       "Python",
       "Shell"
     ],
-    "creators": "Databricks",
-  },
+    "creators": "Databricks"
+  }
 ]
