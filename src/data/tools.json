@@ -47,6 +47,14 @@
     "language": ["C++", "Python", "C", "CMake", "Other"],
     "creators": "Steffen Nissen",
   },
+   {
+    "name": "OpenNN",
+    "url": "https://github.com/Artelnics/OpenNN",
+    "description": "OpenNN is a library that implements neural networks and is optimized for high-performance predictive analytics.",
+    "releaseYear": "2003",
+    "language": ["C++", "C", "Fortran", "CUDA", "CMake", "Shell", "Other"],
+    "creators": "RAMFLOOD, Artelnics",
+  },
   {
     "name": "scikit-learn",
     "url": "https://scikit-learn.org/stable",
