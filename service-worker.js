@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/open-source-machine-learning-infographic/precache-manifest.7bd9ab71dd16d70df9534527d1b7e17b.js"
+  "/open-source-ai-infographic/precache-manifest.004e349ed622c729ac820e82348c0b46.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/open-source-machine-learning-infographic/index.html", {
+workbox.routing.registerNavigationRoute("/open-source-ai-infographic/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
