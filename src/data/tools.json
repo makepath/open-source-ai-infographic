@@ -177,17 +177,12 @@
     "creators": "Mycroft AI team",
   },
   {
-    "name": "Cortex",
-    "url": "https://www.cortex.dev",
-    "category": "vector",
-    "type": "Specification",
-    "image": "https://www.turismo.gal/imaxes/mdaw/mtaw/~edisp/~extract/TURGA100631~1~staticrendition/tg_sinescalar.jpg",
-    "description": "Cortex is a cloud infrastructure for scalable machine learning.",
-    "releaseYear": "2016",
-    "language": ["Python"],
-    "creators": "Grafana Labs",
-    "developerQuote": "",
-    "fileFormats": ["Model optimization", "Scaling"]
+    "name": "PyTorch",
+    "url": "github.com/pytorch/pytorch",
+    "description": "PyTorch is a machine learning framework for applications including computer vision and natural language processing.",
+    "releaseYear": "September 2016",
+    "language": ["Python", "C++", "CUDA", "C", "Objective-C++", "CMake", "Other"],
+    "creators": "Linux Foundation, Meta AI",
   },
   {
     "name": "Microsoft Cognitive Toolkit",
