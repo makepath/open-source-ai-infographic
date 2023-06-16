@@ -18,9 +18,12 @@ export function reducer(state, action) {
       // Just after a request is sent
       const tools = require('../../../data/tools.json');
       const fileFormats = tools.reduce((acc, curr) => {
-        curr.fileFormats.forEach(fileFormat =>
-          !acc.includes(fileFormat) ? acc.push(fileFormat) : null,
-        );
+        console.log(curr)
+        if (curr.fileFormats) {
+          curr.fileFormats.forEach(fileFormat =>
+            !acc.includes(fileFormat) ? acc.push(fileFormat) : null,
+          );
+        }
         return acc;
       }, []);
       return {
