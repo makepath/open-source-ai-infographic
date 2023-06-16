@@ -44,7 +44,6 @@
       "C",
       "C++",
       "Lua",
-      "CMake"
     ],
     "creators": "Ronan Collobert, Samy Bengio, Johnny Mariéthoz"
   },
@@ -56,10 +55,8 @@
     "language": [
       "C++",
       "Python",
-      "CMake",
       "CUDA",
       "C",
-      "XSLT"
     ],
     "creators": "Davis E. King"
   },
@@ -72,8 +69,6 @@
       "C++",
       "Python",
       "C",
-      "CMake",
-      "Other"
     ],
     "creators": "Steffen Nissen"
   },
@@ -85,11 +80,7 @@
     "language": [
       "C++",
       "C",
-      "Fortran",
       "CUDA",
-      "CMake",
-      "Shell",
-      "Other"
     ],
     "creators": "RAMFLOOD, Artelnics"
   },
@@ -100,11 +91,7 @@
     "releaseYear": "2005",
     "language": [
       "C++",
-      "C1.1",
       "Java",
-      "Makefile",
-      "CMake",
-      "Shell"
     ],
     "creators": "Hewlett-Packard, University of Nevada - Las Vegas, Google"
   },
@@ -117,7 +104,6 @@
       "Python",
       "C",
       "C++",
-      "Cython"
     ],
     "creators": "David Cournapeau"
   },
@@ -138,12 +124,8 @@
     "releaseYear": "February 1, 2008",
     "language": [
       "C++",
-      "CMake",
       "Python",
       "Go",
-      "Julia",
-      "Shell",
-      "Other"
     ],
     "creators": "Ryan Curtin"
   },
@@ -178,10 +160,7 @@
       "C++",
       "Python",
       "CUDA",
-      "CMake",
       "MATLAB",
-      "Makefile",
-      "Other"
     ],
     "creators": "Yangqing Jia"
   },
@@ -192,8 +171,6 @@
     "releaseYear": "March 27, 2015",
     "language": [
       "Python",
-      "Starlark",
-      "Other"
     ],
     "creators": "François Chollet"
   },
@@ -215,11 +192,7 @@
     "language": [
       "C++",
       "Python",
-      "MLIR",
-      "Starlark",
-      "HTML",
       "Go",
-      "Other"
     ],
     "creators": "Google, Google Brain"
   },
@@ -229,13 +202,9 @@
     "description": "fastText is a library that supports learning word representations and sentence classification.",
     "releaseYear": "November 9, 2015",
     "language": [
-      "HTML",
       "C++",
       "JavaScript",
       "Python",
-      "CSS",
-      "Shell",
-      "Other"
     ],
     "creators": "Facebook AI Research (FAIR)"
   },
@@ -246,8 +215,6 @@
     "releaseYear": "December 10, 2015",
     "language": [
       "Python",
-      "Starlark",
-      "Other"
     ],
     "creators": "Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, John Schulman,  Wojciech Zaremba"
   },
@@ -259,11 +226,7 @@
     "language": [
       "C++",
       "Python",
-      "Jupyter Notebook",
       "CUDA",
-      "CMake",
-      "Shell",
-      "Other"
     ],
     "creators": "Distributed (Deep) Machine Learning Community"
   },
@@ -274,12 +237,9 @@
     "releaseYear": "January 25, 2016",
     "language": [
       "C++",
-      "Jupyter Notebook",
       "Python",
       "CUDA",
       "C#",
-      "Shell",
-      "Other"
     ],
     "creators": "Microsoft Research"
   },
@@ -289,10 +249,7 @@
     "description": "Mycroft is an open source voice assistant.",
     "releaseYear": "May 23, 2016",
     "language": [
-      "Python",
-      "Shell",
-      "QML",
-      "Dockerfile"
+      "Python"
     ],
     "creators": "Mycroft AI team"
   },
@@ -306,9 +263,6 @@
       "C++",
       "CUDA",
       "C",
-      "Objective-C++",
-      "CMake",
-      "Other"
     ],
     "creators": "Linux Foundation, Meta AI"
   },
@@ -318,12 +272,7 @@
     "description": "Rasa provides machine learning tools for developers to build, improve, and deploy text-and voice-based chatbots and assistants.",
     "releaseYear": "2016",
     "language": [
-      "Python",
-      "Dockerfile",
-      "Makefile",
-      "Shell",
-      "HCL",
-      "HTML"
+      "Python"
     ],
     "creators": "Alan Nichol, Alex Weidauer"
   },
@@ -334,8 +283,6 @@
     "releaseYear": "2016",
     "language": [
       "Python",
-      "Jupyter Notebook",
-      "TypeScript",
       "Rust",
       "C++"
     ],
@@ -350,10 +297,6 @@
       "Python",
       "C++",
       "Java",
-      "TypeScript",
-      "Starlark",
-      "Cython",
-      "Other"
     ],
     "creators": "anyscale"
   },
@@ -396,8 +339,6 @@
       "Python",
       "C++",
       "CUDA",
-      "Shell",
-      "Dockerfile",
       "C"
     ],
     "creators": "Microsoft Research",
@@ -419,7 +360,6 @@
     "releaseYear": "December 17, 2022",
     "language": [
       "Python",
-      "TypeScript"
     ],
     "creators": "Andreas Köpf, Yannic Kilcher, Huu Nguyen, Christoph Schuhmann",
   },
@@ -430,7 +370,6 @@
     "releaseYear": "February 24, 2023",
     "language": [
       "Python",
-      "Shell"
     ],
     "creators": "Meta AI",
   },
