@@ -2,15 +2,10 @@
   {
     "name": "Weka",
     "url": "https://www.cs.waikato.ac.nz/ml/weka/",
-    "category": "other",
-    "type": "File format",
-    "image": null,
     "description": "Weka includes tools for data preparation, classification, regression, clustering, and other machine learning algorithms used for data mining.",
     "releaseYear": "1993",
     "language": ["Java"],
     "creators": "University of Waikato, NZ",
-    "developerQuote": "",
-    "fileFormats": ["Data preparation", "Model optimization", "Classical Machine Learning"]
   },
   {
     "name": "Shogun",
