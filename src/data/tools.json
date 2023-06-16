@@ -423,4 +423,26 @@
     ],
     "creators": "Andreas Köpf, Yannic Kilcher, Huu Nguyen, Christoph Schuhmann",
   },
+  {
+    "name": "LLaMA",
+    "url": "https://github.com/facebookresearch/llama",
+    "description": "Large Language Model Meta AI (LLaMA) foundational large language model geared towards users in the research community.",
+    "releaseYear": "February 24, 2023",
+    "language": [
+      "Python",
+      "Shell"
+    ],
+    "creators": "Meta AI",
+  },
+  {
+    "name": "Dolly",
+    "url": "https://github.com/databrickslabs/dolly",
+    "description": "Dolly is a large language model that supports high-quality instruction with  limited training parameters.",
+    "releaseYear": "March 8, 2023",
+    "language": [
+      "Python",
+      "Shell"
+    ],
+    "creators": "Databricks",
+  },
 ]
