@@ -32,17 +32,12 @@
     "creators": "Ronan Collobert, Samy Bengio, Johnny Mariéthoz",
   },
   {
-    "name": "r-spatial",
-    "url": "https://r-spatial.org",
-    "category": "vector",
-    "type": "File format",
-    "image": null,
-    "description": "R-Spatial is an ecosystem of code and packages delevoped using R for working with and adding value to spatial data. Packages include, but are not limited to, sf, stars, mapview, gstat, spdep, raster and terra.",
-    "releaseYear": "2003",
-    "language": ["R"],
-    "creators": "R-Spatial community",
-    "developerQuote": "",
-    "fileFormats": ["Data preparation", "Classical Machine Learning"]
+    "name": "Dlib",
+    "url": "https://github.com/davisking/dlib",
+    "description": "Dlib is a toolkit that contains machine learning algorithms and resources for creating complex applications.",
+    "releaseYear": "2002",
+    "language": ["C++", "Python", "CMake", "CUDA", "C", "XSLT"],
+    "creators": "Davis E. King",
   },
   {
     "name": "Polyaxon",
