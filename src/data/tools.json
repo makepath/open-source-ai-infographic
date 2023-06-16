@@ -25,16 +25,11 @@
   },
   {
     "name": "Torch",
-    "url": "http://torch.ch",
-    "category": "raster",
-    "type": "File format",
-    "image": "https://registry.opendata.aws/img/logos/unidata-logo.png",
+    "url": "github.com/torch/torch7",
     "description": "Torch is a scientific computing framework that supports machine learning algorithms on GPUs.",
-    "releaseYear": "2002",
-    "language": ["Lua", "LuaJIT", "C", "CUDA", "C++"],
+    "releaseYear": "October 2002",
+    "language": ["C", "C++", "Lua", "CMake"],
     "creators": "Ronan Collobert, Samy Bengio, Johnny Mariéthoz",
-    "developerQuote": "",
-    "fileFormats": ["Model development", "Neural Networks", "Predictions", "Training"]
   },
   {
     "name": "r-spatial",
