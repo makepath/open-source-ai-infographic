@@ -10,15 +10,10 @@
   {
     "name": "Shogun",
     "url": "https://github.com/shogun-toolbox/shogun",
-    "category": "other",
-    "type": "GUI",
-    "image": "https://gisgeography.com/wp-content/uploads/2016/07/GRASS-GIS-logo-2.png",
-    "description": "Shogun offers methods for efficient and unified machine learning.",
+    "description": "Shogun is a machine learning toolbox that supports the implementation of  standard machine learning algorithms.",
     "releaseYear": "1999",
-    "language": ["Python", "Octave", "Java", "Scala", "Ruby", "C#", "R", "Perl", "JavaScript"],
-    "creators": "NumFOCUS",
-    "developerQuote": "",
-    "fileFormats": ["Model optimization", "Classical Machine Learning"]
+    "language": ["Python"],
+    "creators": "Gunnar Rätsch, Soeren Sonnenburg",
   },
   {
     "name": "OpenCV",
