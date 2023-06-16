@@ -17,16 +17,11 @@
   },
   {
     "name": "OpenCV",
-    "url": "https://opencv.org",
-    "category": "raster",
-    "type": "File format",
-    "image": "https://www.esipfed.org/wp-content/uploads/2014/05/logo_bluegreen_txt.jpg",
+    "url": "github.com/opencv/opencv",
     "description": "OpenCV is a computer vision and machine learning library that provides common infrastructure to accelerate machine perception.",
-    "releaseYear": "2000",
-    "language": ["C++", "Python", "Java", "MATLAB"],
-    "creators": "Intel",
-    "developerQuote": "",
-    "fileFormats": ["Data preparation", "Feature engineering"]
+    "releaseYear": "June 2000",
+    "language": ["C++", "C", "Python", "CMake", "Java", "Objective-C++", "Other"],
+    "creators": "Intel, Willow Garage, Itseez",
   },
   {
     "name": "Torch",
