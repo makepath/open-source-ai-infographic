@@ -27,11 +27,7 @@
     "language": [
       "C++",
       "C",
-      "Python",
-      "CMake",
-      "Java",
-      "Objective-C++",
-      "Other"
+      "Python"
     ],
     "creators": "Intel, Willow Garage, Itseez"
   },
@@ -380,7 +376,6 @@
     "releaseYear": "March 8, 2023",
     "language": [
       "Python",
-      "Shell"
     ],
     "creators": "Databricks"
   }
