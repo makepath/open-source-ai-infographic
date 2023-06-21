@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4c5b12d4c806413a6e33",
+    "revision": "aa59e7f6f06cae6947f1",
     "url": "/open-source-ai-infographic/static/css/main.bf7fa61c.chunk.css"
   },
   {
-    "revision": "4c5b12d4c806413a6e33",
-    "url": "/open-source-ai-infographic/static/js/main.4c5b12d4.chunk.js"
+    "revision": "aa59e7f6f06cae6947f1",
+    "url": "/open-source-ai-infographic/static/js/main.aa59e7f6.chunk.js"
   },
   {
     "revision": "175edbe4874d95f3425a",
@@ -40,23 +40,23 @@ self.__precacheManifest = [
     "url": "/open-source-ai-infographic/static/media/Right-Head.b01fa118.svg"
   },
   {
-    "revision": "bdb37477b68d098317daaf939f295527",
-    "url": "/open-source-ai-infographic/static/media/Acumin-RPro.bdb37477.otf"
+    "revision": "f55e6e6014f6e1692edbb46a156d65b6",
+    "url": "/open-source-ai-infographic/static/media/Acumin-BdPro.f55e6e60.otf"
   },
   {
     "revision": "d3085f686df272f9e1a267cc69b2d24f",
     "url": "/open-source-ai-infographic/static/media/Montserrat-Bold.d3085f68.ttf"
   },
   {
-    "revision": "f55e6e6014f6e1692edbb46a156d65b6",
-    "url": "/open-source-ai-infographic/static/media/Acumin-BdPro.f55e6e60.otf"
+    "revision": "bdb37477b68d098317daaf939f295527",
+    "url": "/open-source-ai-infographic/static/media/Acumin-RPro.bdb37477.otf"
   },
   {
     "revision": "2a3a23bf878d7187dc1e20049a44e9ba",
     "url": "/open-source-ai-infographic/static/js/2.4a053378.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "04a32f460026fa4cc3490bcf2101a80e",
+    "revision": "0a2c832f90063c17705eed42327ce5a0",
     "url": "/open-source-ai-infographic/index.html"
   }
 ];
