@@ -375,7 +375,7 @@
     "description": "Dolly is a large language model that supports high-quality instruction with  limited training parameters.",
     "releaseYear": "March 8, 2023",
     "language": [
-      "Python",
+      "Python"
     ],
     "creators": "Databricks"
   }
