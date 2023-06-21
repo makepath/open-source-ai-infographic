@@ -23,7 +23,7 @@
     "name": "OpenCV",
     "url": "github.com/opencv/opencv",
     "description": "OpenCV is a computer vision and machine learning library that provides common infrastructure to accelerate machine perception.",
-    "releaseYear": "June 2000",
+    "releaseYear": "2000",
     "language": [
       "C++",
       "C",
@@ -35,7 +35,7 @@
     "name": "Torch",
     "url": "github.com/torch/torch7",
     "description": "Torch is a scientific computing framework that supports machine learning algorithms on GPUs.",
-    "releaseYear": "October 2002",
+    "releaseYear": "2002",
     "language": [
       "C",
       "C++",
@@ -60,7 +60,7 @@
     "name": "FANN",
     "url": "https://github.com/libfann/fann",
     "description": "Fast Artificial Neural Network (FANN) is a library that supports the implementation of multilayer artificial neural networks.",
-    "releaseYear": "November 2003",
+    "releaseYear": "2003",
     "language": [
       "C++",
       "Python",
@@ -95,7 +95,7 @@
     "name": "scikit-learn",
     "url": "github.com/scikit-learn/scikit-learn",
     "description": "scikit-learn is a Python module for machine learning built on top of SciPy.",
-    "releaseYear": "June 2007",
+    "releaseYear": "2007",
     "language": [
       "Python",
       "C",
@@ -117,7 +117,7 @@
     "name": "mlpack",
     "url": "https://github.com/mlpack/mlpack",
     "description": "mlpack aims to provide fast, extensible implementations of cutting-edge machine learning algorithms.",
-    "releaseYear": "February 1, 2008",
+    "releaseYear": "2008",
     "language": [
       "C++",
       "Python",
@@ -151,7 +151,7 @@
     "name": "Caffe",
     "url": "https://github.com/BVLC/caffe",
     "description": "Caffe provides a deep learning framework designed with expression, speed, and modularity.",
-    "releaseYear": "April 2014",
+    "releaseYear": "2014",
     "language": [
       "C++",
       "Python",
@@ -164,7 +164,7 @@
     "name": "Keras",
     "url": "github.com/keras-team/keras",
     "description": "Keras offers consistent and simple APIs to reduce cognitive.",
-    "releaseYear": "March 27, 2015",
+    "releaseYear": "2015",
     "language": [
       "Python"
     ],
@@ -174,7 +174,7 @@
     "name": "Chainer",
     "url": "https://github.com/chainer/chainer",
     "description": "Chainer is a deep learning framework that supported the building and training of neural networks.",
-    "releaseYear": "June 2015",
+    "releaseYear": "2015",
     "language": [
       "Python"
     ],
@@ -184,7 +184,7 @@
     "name": "TensorFlow",
     "url": "https://github.com/tensorflow/tensorflow",
     "description": "TensorFlow is an end-to-end platform that provides a flexible ecosystem of tools for machine learning.",
-    "releaseYear": "November 9, 2015",
+    "releaseYear": "2015",
     "language": [
       "C++",
       "Python",
@@ -196,7 +196,7 @@
     "name": "fastText",
     "url": "https://github.com/facebookresearch/fastText",
     "description": "fastText is a library that supports learning word representations and sentence classification.",
-    "releaseYear": "November 9, 2015",
+    "releaseYear": "2015",
     "language": [
       "C++",
       "JavaScript",
@@ -208,7 +208,7 @@
     "name": "OpenAI",
     "url": "https://github.com/openai",
     "description": "OpenAI develops and provides access to a series of libraries and resources for AI-based applications.",
-    "releaseYear": "December 10, 2015",
+    "releaseYear": "2015",
     "language": [
       "Python"
     ],
@@ -230,7 +230,7 @@
     "name": "Microsoft Cognitive Toolkit ",
     "url": "https://github.com/microsoft/CNTK",
     "description": "The Microsoft Cognitive Toolkit described neural networks series of computational steps through a directed graph and allowed users to combine common model types.",
-    "releaseYear": "January 25, 2016",
+    "releaseYear": "2016",
     "language": [
       "C++",
       "Python",
@@ -243,7 +243,7 @@
     "name": "Mycroft",
     "url": "https://github.com/MycroftAI/mycroft-core",
     "description": "Mycroft is an open source voice assistant.",
-    "releaseYear": "May 23, 2016",
+    "releaseYear": "2016",
     "language": [
       "Python"
     ],
@@ -253,7 +253,7 @@
     "name": "PyTorch",
     "url": "github.com/pytorch/pytorch",
     "description": "PyTorch is a machine learning framework for applications including computer vision and natural language processing.",
-    "releaseYear": "September 2016",
+    "releaseYear": "2016",
     "language": [
       "Python",
       "C++",
@@ -300,7 +300,7 @@
     "name": "Transformers",
     "url": "https://github.com/huggingface/transformers",
     "description": "Transformers provides tools and resource for training pretrained models.",
-    "releaseYear": "Nov 17, 2018",
+    "releaseYear": "2018",
     "language": [
       "Python"
     ],
@@ -310,7 +310,7 @@
     "name": "JAX",
     "url": "https://github.com/google/jax",
     "description": "JAX is a machine learning framework that combines Autograd and XLA to support transforming numerical functions.",
-    "releaseYear": "December 2018",
+    "releaseYear": "2018",
     "language": [
       "Python"
     ],
@@ -320,7 +320,7 @@
     "name": "PyCaret",
     "url": "https://github.com/pycaret/pycaret",
     "description": "PyCaret is a machine learning library that supports automating machine learning workflows. ",
-    "releaseYear": "April 2020",
+    "releaseYear": "2020",
     "language": [
       "Python"
     ],
@@ -330,7 +330,7 @@
     "name": "DeepSpeed",
     "url": "https://github.com/microsoft/DeepSpeed",
     "description": "DeepSpeed is a deep learning optimization library that supports deep learning training and inference.",
-    "releaseYear": "May 19, 2020",
+    "releaseYear": "2020",
     "language": [
       "Python",
       "C++",
@@ -343,7 +343,7 @@
     "name": "Stable Diffusion",
     "url": "github.com/Stability-AI/stablediffusion",
     "description": "Stable Diffusion is a deep learning project that supports detailed text-to-image generation.",
-    "releaseYear": "August 22, 2022",
+    "releaseYear": "2022",
     "language": [
       "Python"
     ],
@@ -353,7 +353,7 @@
     "name": "Open Assistant",
     "url": "https://github.com/LAION-AI/Open-Assistant",
     "description": "OpenAssistant is a chat-based assistant and also supports the creation of chat-enabled generative pre-trained transformers.",
-    "releaseYear": "December 17, 2022",
+    "releaseYear": "2022",
     "language": [
       "Python"
     ],
@@ -363,7 +363,7 @@
     "name": "LLaMA",
     "url": "https://github.com/facebookresearch/llama",
     "description": "Large Language Model Meta AI (LLaMA) foundational large language model geared towards users in the research community.",
-    "releaseYear": "February 24, 2023",
+    "releaseYear": "2023",
     "language": [
       "Python"
     ],
@@ -373,7 +373,7 @@
     "name": "Dolly",
     "url": "https://github.com/databrickslabs/dolly",
     "description": "Dolly is a large language model that supports high-quality instruction with  limited training parameters.",
-    "releaseYear": "March 8, 2023",
+    "releaseYear": "2023",
     "language": [
       "Python"
     ],
