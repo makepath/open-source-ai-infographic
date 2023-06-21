@@ -227,9 +227,9 @@
     "creators": "Distributed (Deep) Machine Learning Community"
   },
   {
-    "name": "Microsoft Cognitive Toolkit ",
+    "name": "CNTK",
     "url": "https://github.com/microsoft/CNTK",
-    "description": "The Microsoft Cognitive Toolkit described neural networks series of computational steps through a directed graph and allowed users to combine common model types.",
+    "description": "The Microsoft Cognitive Toolkit (CNTK) described neural networks series of computational steps through a directed graph and allowed users to combine common model types.",
     "releaseYear": "2016",
     "language": [
       "C++",
